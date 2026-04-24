@@ -1,4 +1,4 @@
-**🧠 MultiAgent Clinical AI**
+## **🧠 MultiAgent Clinical AI**
 
 A **multi-agent clinical decision support system** built using **LangGraph** that simulates structured medical reasoning.
 
@@ -17,13 +17,6 @@ The system takes raw patient input and processes it through multiple specialized
 
 ---
 
-## 
-
-## 
-
-## 
-
-## 
 
 ## **🧠 System Architecture**
 
@@ -93,8 +86,9 @@ venv\\Scripts\\activate   \# Windows
 ### **4\. Setup Environment Variables**
 
 Create a .env file in the root directory:
+GEMINI_API_KEY=your_api_key_here
 
-GEMINI\_API\_KEY=your\_api\_key\_here  
+
 ---
 
 ### **5\. Model Configuration**
